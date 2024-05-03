@@ -1,0 +1,10 @@
+@media screen and (min-width: 400px) and (max-width: 600px) {
+    .div{
+        width: 90%;
+        margin-left: 1.2rem;
+        margin-bottom: 2rem;
+    }
+    .card{
+        margin-bottom: 2rem;
+    }
+  }
